@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "81QXMyGXZNWQPmusdpaKnStBFIloC8+8UqM3+q/VE/m9SYC/OKg8gYjsKOAv+S2Lw7zp5gOgSY/Lto3dFsxGkw==",
+  "dgSpecHash": "ZZtutjq0qQTWraPXO9a00iqJ8PjrVMM/MnAHdlLWELiYSx9xhef5ae9+nRkuu+21TFbFms5QVnvGaBWwzwD7BA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\KursProje\\WEB_APİ\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\KursProje\\WEB_APİ\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emine\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
     "C:\\Users\\emine\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.2\\microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",

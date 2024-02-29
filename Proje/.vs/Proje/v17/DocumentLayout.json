@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\",
+  "WorkspaceRootPath": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|c:\\users\\emine\\onedrive\\masa\u00FCst\u00FC\\yazilimkursu\\myproject(udemy)\\kamp\\proje\\proje\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|c:\\users\\emine\\onedrive\\masa\u00FCst\u00FC\\yazilimkursu\\myproject(udemy)\\yazilim_kampi\\yazilim_kampi\\proje\\proje\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|solutionrelative:proje\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|solutionrelative:proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\proje\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\proje\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|solutionrelative:proje\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\proje\\dataaccess\\concretes\\efcoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\proje\\dataaccess\\concretes\\efcoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|solutionrelative:proje\\dataaccess\\concretes\\efcoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\proje\\dataaccess\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\proje\\dataaccess\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|solutionrelative:proje\\dataaccess\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\proje\\dataaccess\\abstract\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\proje\\dataaccess\\abstract\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|solutionrelative:proje\\dataaccess\\abstract\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\proje\\entities\\individualcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\proje\\entities\\individualcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|solutionrelative:proje\\entities\\individualcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\proje\\proje.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\proje\\proje.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6B612887-A199-4407-AF7B-6511D60ACBAA}|Proje\\Proje.csproj|solutionrelative:proje\\proje.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ICourseDal.cs",
-              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\Proje\\DataAccess\\Abstract\\ICourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\Proje\\DataAccess\\Abstract\\ICourseDal.cs",
               "RelativeDocumentMoniker": "Proje\\DataAccess\\Abstract\\ICourseDal.cs",
-              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\Proje\\DataAccess\\Abstract\\ICourseDal.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\Proje\\DataAccess\\Abstract\\ICourseDal.cs",
               "RelativeToolTip": "Proje\\DataAccess\\Abstract\\ICourseDal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "EfCourseDal.cs",
-              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\Proje\\DataAccess\\Concretes\\EfCourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\Proje\\DataAccess\\Concretes\\EfCourseDal.cs",
               "RelativeDocumentMoniker": "Proje\\DataAccess\\Concretes\\EfCourseDal.cs",
-              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\Proje\\DataAccess\\Concretes\\EfCourseDal.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\Proje\\DataAccess\\Concretes\\EfCourseDal.cs",
               "RelativeToolTip": "Proje\\DataAccess\\Concretes\\EfCourseDal.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAQwAUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "CourseDal.cs",
-              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\Proje\\DataAccess\\Concretes\\CourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\Proje\\DataAccess\\Concretes\\CourseDal.cs",
               "RelativeDocumentMoniker": "Proje\\DataAccess\\Concretes\\CourseDal.cs",
-              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\Proje\\DataAccess\\Concretes\\CourseDal.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\Proje\\DataAccess\\Concretes\\CourseDal.cs",
               "RelativeToolTip": "Proje\\DataAccess\\Concretes\\CourseDal.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "IndividualCustomer.cs",
-              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\Proje\\Entities\\IndividualCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\Proje\\Entities\\IndividualCustomer.cs",
               "RelativeDocumentMoniker": "Proje\\Entities\\IndividualCustomer.cs",
-              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\Proje\\Entities\\IndividualCustomer.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\Proje\\Entities\\IndividualCustomer.cs",
               "RelativeToolTip": "Proje\\Entities\\IndividualCustomer.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -96,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CourseManager.cs",
-              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\Proje\\Business\\CourseManager.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\Proje\\Business\\CourseManager.cs",
               "RelativeDocumentMoniker": "Proje\\Business\\CourseManager.cs",
-              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\Proje\\Business\\CourseManager.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\Proje\\Business\\CourseManager.cs",
               "RelativeToolTip": "Proje\\Business\\CourseManager.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAApwA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,9 +108,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\Proje\\Entities\\Course.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\Proje\\Entities\\Course.cs",
               "RelativeDocumentMoniker": "Proje\\Entities\\Course.cs",
-              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\Proje\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\Proje\\Entities\\Course.cs",
               "RelativeToolTip": "Proje\\Entities\\Course.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,9 +121,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Proje.csproj",
-              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\Proje\\Proje.csproj",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\Proje\\Proje.csproj",
               "RelativeDocumentMoniker": "Proje\\Proje.csproj",
-              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\Proje\\Proje.csproj",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\Proje\\Proje.csproj",
               "RelativeToolTip": "Proje\\Proje.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -133,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\Proje\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\Proje\\Program.cs",
               "RelativeDocumentMoniker": "Proje\\Program.cs",
-              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\Proje\\Proje\\Program.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Proje\\Proje\\Program.cs",
               "RelativeToolTip": "Proje\\Program.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAAsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

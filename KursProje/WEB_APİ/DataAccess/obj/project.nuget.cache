@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ckLnL2ZARq/MJlaxOrPr7poKrv+N90lYT7fIk6G+T/7zR9OsaH+LVWZN8FajGTTDOl65ReoZgHvuTTGjyO7wOw==",
+  "dgSpecHash": "1YY5/Eki+Oq1VRTHFaY1rMjaxNZeZ7Q9CrafaAzym9FllnK5f4dZeGZMbnQm9K2A5kSm77s3lYUymrrckYYB6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\KursProje\\WEB_APİ\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\KursProje\\WEB_APİ\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emine\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\emine\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

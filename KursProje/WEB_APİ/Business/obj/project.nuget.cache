@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7SMhqrPWfM+ZOelB4ZEYtNtcPi9T6OmJ4rAu+FPgS8BC5AVN+TAkrKRxZoEcrGZ4quDVu/no7lTSR7h0Ro4anA==",
+  "dgSpecHash": "56QlTLJ8v0GWxHaqUczmLup/0JHjgNNj+AwfF3/EAHWo7DUmRLSMcRu2fOSB4RRw268wqooiQgXDW1JN2A4xhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\KursProje\\WEB_APİ\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\KursProje\\WEB_APİ\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emine\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\emine\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
