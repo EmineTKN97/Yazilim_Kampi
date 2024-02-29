@@ -1,0 +1,17 @@
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ThreadingDemo\bin\Debug\net8.0-windows\ThreadingDemo.exe
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ThreadingDemo\bin\Debug\net8.0-windows\ThreadingDemo.deps.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ThreadingDemo\bin\Debug\net8.0-windows\ThreadingDemo.runtimeconfig.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ThreadingDemo\bin\Debug\net8.0-windows\ThreadingDemo.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ThreadingDemo\bin\Debug\net8.0-windows\ThreadingDemo.pdb
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ThreadingDemo\obj\Debug\net8.0-windows\ThreadingDemo.Form1.resources
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ThreadingDemo\obj\Debug\net8.0-windows\ThreadingDemo.csproj.GenerateResource.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ThreadingDemo\obj\Debug\net8.0-windows\ThreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ThreadingDemo\obj\Debug\net8.0-windows\ThreadingDemo.AssemblyInfoInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ThreadingDemo\obj\Debug\net8.0-windows\ThreadingDemo.AssemblyInfo.cs
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ThreadingDemo\obj\Debug\net8.0-windows\ThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ThreadingDemo\obj\Debug\net8.0-windows\ThreadingDemo.sourcelink.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ThreadingDemo\obj\Debug\net8.0-windows\ThreadingDemo.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ThreadingDemo\obj\Debug\net8.0-windows\refint\ThreadingDemo.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ThreadingDemo\obj\Debug\net8.0-windows\ThreadingDemo.pdb
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ThreadingDemo\obj\Debug\net8.0-windows\ThreadingDemo.genruntimeconfig.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ThreadingDemo\obj\Debug\net8.0-windows\ref\ThreadingDemo.dll

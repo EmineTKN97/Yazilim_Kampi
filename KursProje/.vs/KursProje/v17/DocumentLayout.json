@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|c:\\users\\emine\\onedrive\\masa\u00FCst\u00FC\\yazilimkursu\\myproject(udemy)\\kamp\\kursproje\\business\\dtos\\responses\\getallcourseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|solutionrelative:business\\dtos\\responses\\getallcourseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\business\\dtos\\responses\\createinstructorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|solutionrelative:business\\dtos\\responses\\createinstructorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\business\\dtos\\responses\\createcourseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|solutionrelative:business\\dtos\\responses\\createcourseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\business\\dtos\\requests\\createinstructorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|solutionrelative:business\\dtos\\requests\\createinstructorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\DataAccess\\Migrations\\20240226194806_\u0131d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20240226194806_\u0131d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BAB49D-E717-4FE9-B4F0-2478407605E6}|Entities\\Entities.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\entities\\concretes\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BAB49D-E717-4FE9-B4F0-2478407605E6}|Entities\\Entities.csproj|solutionrelative:entities\\concretes\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BAB49D-E717-4FE9-B4F0-2478407605E6}|Entities\\Entities.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\entities\\concretes\\coursecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BAB49D-E717-4FE9-B4F0-2478407605E6}|Entities\\Entities.csproj|solutionrelative:entities\\concretes\\coursecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BAB49D-E717-4FE9-B4F0-2478407605E6}|Entities\\Entities.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\entities\\concretes\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BAB49D-E717-4FE9-B4F0-2478407605E6}|Entities\\Entities.csproj|solutionrelative:entities\\concretes\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\business\\dtos\\responses\\getallinstructorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|solutionrelative:business\\dtos\\responses\\getallinstructorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\business\\dtos\\responses\\getallcoursecategoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|solutionrelative:business\\dtos\\responses\\getallcoursecategoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\business\\dtos\\responses\\createcoursecategoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|solutionrelative:business\\dtos\\responses\\createcoursecategoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\business\\dtos\\requests\\createcourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|solutionrelative:business\\dtos\\requests\\createcourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\business\\dtos\\requests\\createcoursecategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|solutionrelative:business\\dtos\\requests\\createcoursecategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\business\\concretes\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|solutionrelative:business\\concretes\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\business\\concretes\\coursecategorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|solutionrelative:business\\concretes\\coursecategorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\DataAccess\\Migrations\\20240226192928_tableedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20240226192928_tableedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\business\\abstracts\\iinstructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50449E4F-0393-4E0A-8BD6-27EB1F1BEEFC}|Business\\Business.csproj|solutionrelative:business\\abstracts\\iinstructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5059C3A-3DEE-48E0-B686-6E0AFF729F8D}|DataAccess\\DataAccess.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\DataAccess\\Migrations\\20240226195014_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5059C3A-3DEE-48E0-B686-6E0AFF729F8D}|DataAccess\\DataAccess.csproj|solutionrelative:DataAccess\\Migrations\\20240226195014_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 173,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240226195014_database.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\DataAccess\\Migrations\\20240226195014_database.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240226195014_database.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\DataAccess\\Migrations\\20240226195014_database.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240226195014_database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:50:14.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240226194806_\u0131d.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\DataAccess\\Migrations\\20240226194806_\u0131d.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240226194806_\u0131d.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\DataAccess\\Migrations\\20240226194806_\u0131d.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240226194806_\u0131d.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:48:06.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllCourseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Responses\\GetAllCourseResponse.cs",
+              "RelativeDocumentMoniker": "Business\\Dtos\\Responses\\GetAllCourseResponse.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Responses\\GetAllCourseResponse.cs",
+              "RelativeToolTip": "Business\\Dtos\\Responses\\GetAllCourseResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:46:08.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllCourseCategoryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Responses\\GetAllCourseCategoryResponse.cs",
+              "RelativeDocumentMoniker": "Business\\Dtos\\Responses\\GetAllCourseCategoryResponse.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Responses\\GetAllCourseCategoryResponse.cs",
+              "RelativeToolTip": "Business\\Dtos\\Responses\\GetAllCourseCategoryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:46:03.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCourseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Responses\\CreateCourseResponse.cs",
+              "RelativeDocumentMoniker": "Business\\Dtos\\Responses\\CreateCourseResponse.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Responses\\CreateCourseResponse.cs",
+              "RelativeToolTip": "Business\\Dtos\\Responses\\CreateCourseResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:45:50.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateCourseCategoryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Responses\\CreateCourseCategoryResponse.cs",
+              "RelativeDocumentMoniker": "Business\\Dtos\\Responses\\CreateCourseCategoryResponse.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Responses\\CreateCourseCategoryResponse.cs",
+              "RelativeToolTip": "Business\\Dtos\\Responses\\CreateCourseCategoryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:45:42.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateCourseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Requests\\CreateCourseRequest.cs",
+              "RelativeDocumentMoniker": "Business\\Dtos\\Requests\\CreateCourseRequest.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Requests\\CreateCourseRequest.cs",
+              "RelativeToolTip": "Business\\Dtos\\Requests\\CreateCourseRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:45:32.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateCourseCategoryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Requests\\CreateCourseCategoryRequest.cs",
+              "RelativeDocumentMoniker": "Business\\Dtos\\Requests\\CreateCourseCategoryRequest.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Requests\\CreateCourseCategoryRequest.cs",
+              "RelativeToolTip": "Business\\Dtos\\Requests\\CreateCourseCategoryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:45:31.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240226192928_tableedit.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\DataAccess\\Migrations\\20240226192928_tableedit.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240226192928_tableedit.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\DataAccess\\Migrations\\20240226192928_tableedit.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240226192928_tableedit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:29:28.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Entities\\Concretes\\Instructor.cs",
+              "RelativeDocumentMoniker": "Entities\\Concretes\\Instructor.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Entities\\Concretes\\Instructor.cs",
+              "RelativeToolTip": "Entities\\Concretes\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:27:22.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseCategory.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Entities\\Concretes\\CourseCategory.cs",
+              "RelativeDocumentMoniker": "Entities\\Concretes\\CourseCategory.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Entities\\Concretes\\CourseCategory.cs",
+              "RelativeToolTip": "Entities\\Concretes\\CourseCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:26:51.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Entities\\Concretes\\Course.cs",
+              "RelativeDocumentMoniker": "Entities\\Concretes\\Course.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Entities\\Concretes\\Course.cs",
+              "RelativeToolTip": "Entities\\Concretes\\Course.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:23:03.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CourseCategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Concretes\\CourseCategoryManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concretes\\CourseCategoryManager.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Concretes\\CourseCategoryManager.cs",
+              "RelativeToolTip": "Business\\Concretes\\CourseCategoryManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:56:45.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InstructorManager.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Concretes\\InstructorManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concretes\\InstructorManager.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Concretes\\InstructorManager.cs",
+              "RelativeToolTip": "Business\\Concretes\\InstructorManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:56:30.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllInstructorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Responses\\GetAllInstructorResponse.cs",
+              "RelativeDocumentMoniker": "Business\\Dtos\\Responses\\GetAllInstructorResponse.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Responses\\GetAllInstructorResponse.cs",
+              "RelativeToolTip": "Business\\Dtos\\Responses\\GetAllInstructorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:54:16.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateInstructorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Responses\\CreateInstructorResponse.cs",
+              "RelativeDocumentMoniker": "Business\\Dtos\\Responses\\CreateInstructorResponse.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Responses\\CreateInstructorResponse.cs",
+              "RelativeToolTip": "Business\\Dtos\\Responses\\CreateInstructorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:53:14.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateInstructorRequest.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Requests\\CreateInstructorRequest.cs",
+              "RelativeDocumentMoniker": "Business\\Dtos\\Requests\\CreateInstructorRequest.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Dtos\\Requests\\CreateInstructorRequest.cs",
+              "RelativeToolTip": "Business\\Dtos\\Requests\\CreateInstructorRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:52:21.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IInstructorService.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Abstracts\\IInstructorService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstracts\\IInstructorService.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\KursProje\\Business\\Abstracts\\IInstructorService.cs",
+              "RelativeToolTip": "Business\\Abstracts\\IInstructorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:51:31.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

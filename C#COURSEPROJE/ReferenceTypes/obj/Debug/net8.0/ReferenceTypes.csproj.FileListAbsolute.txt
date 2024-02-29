@@ -1,0 +1,15 @@
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.exe
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.deps.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.runtimeconfig.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.pdb
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.AssemblyInfo.cs
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.sourcelink.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ReferenceTypes\obj\Debug\net8.0\refint\ReferenceTypes.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.pdb
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.genruntimeconfig.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\ReferenceTypes\obj\Debug\net8.0\ref\ReferenceTypes.dll

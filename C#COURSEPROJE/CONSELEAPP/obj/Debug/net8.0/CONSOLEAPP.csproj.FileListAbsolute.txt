@@ -1,0 +1,15 @@
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\CONSELEAPP\bin\Debug\net8.0\CONSOLEAPP.exe
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\CONSELEAPP\bin\Debug\net8.0\CONSOLEAPP.deps.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\CONSELEAPP\bin\Debug\net8.0\CONSOLEAPP.runtimeconfig.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\CONSELEAPP\bin\Debug\net8.0\CONSOLEAPP.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\CONSELEAPP\bin\Debug\net8.0\CONSOLEAPP.pdb
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\CONSELEAPP\obj\Debug\net8.0\CONSOLEAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\CONSELEAPP\obj\Debug\net8.0\CONSOLEAPP.AssemblyInfoInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\CONSELEAPP\obj\Debug\net8.0\CONSOLEAPP.AssemblyInfo.cs
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\CONSELEAPP\obj\Debug\net8.0\CONSOLEAPP.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\CONSELEAPP\obj\Debug\net8.0\CONSOLEAPP.sourcelink.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\CONSELEAPP\obj\Debug\net8.0\CONSOLEAPP.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\CONSELEAPP\obj\Debug\net8.0\refint\CONSOLEAPP.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\CONSELEAPP\obj\Debug\net8.0\CONSOLEAPP.pdb
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\CONSELEAPP\obj\Debug\net8.0\CONSOLEAPP.genruntimeconfig.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\CONSELEAPP\obj\Debug\net8.0\ref\CONSOLEAPP.dll

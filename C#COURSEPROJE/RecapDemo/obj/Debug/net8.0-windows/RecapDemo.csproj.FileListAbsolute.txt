@@ -1,0 +1,17 @@
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\RecapDemo\bin\Debug\net8.0-windows\RecapDemo.exe
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\RecapDemo\bin\Debug\net8.0-windows\RecapDemo.deps.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\RecapDemo\bin\Debug\net8.0-windows\RecapDemo.runtimeconfig.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\RecapDemo\bin\Debug\net8.0-windows\RecapDemo.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\RecapDemo\bin\Debug\net8.0-windows\RecapDemo.pdb
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\RecapDemo\obj\Debug\net8.0-windows\RecapDemo.Form1.resources
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\RecapDemo\obj\Debug\net8.0-windows\RecapDemo.csproj.GenerateResource.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\RecapDemo\obj\Debug\net8.0-windows\RecapDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\RecapDemo\obj\Debug\net8.0-windows\RecapDemo.AssemblyInfoInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\RecapDemo\obj\Debug\net8.0-windows\RecapDemo.AssemblyInfo.cs
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\RecapDemo\obj\Debug\net8.0-windows\RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\RecapDemo\obj\Debug\net8.0-windows\RecapDemo.sourcelink.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\RecapDemo\obj\Debug\net8.0-windows\RecapDemo.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\RecapDemo\obj\Debug\net8.0-windows\refint\RecapDemo.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\RecapDemo\obj\Debug\net8.0-windows\RecapDemo.pdb
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\RecapDemo\obj\Debug\net8.0-windows\RecapDemo.genruntimeconfig.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\RecapDemo\obj\Debug\net8.0-windows\ref\RecapDemo.dll

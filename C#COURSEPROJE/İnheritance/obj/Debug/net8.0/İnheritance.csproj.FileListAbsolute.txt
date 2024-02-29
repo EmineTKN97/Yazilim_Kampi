@@ -1,0 +1,15 @@
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnheritance\bin\Debug\net8.0\İnheritance.exe
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnheritance\bin\Debug\net8.0\İnheritance.deps.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnheritance\bin\Debug\net8.0\İnheritance.runtimeconfig.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnheritance\bin\Debug\net8.0\İnheritance.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnheritance\bin\Debug\net8.0\İnheritance.pdb
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnheritance\obj\Debug\net8.0\İnheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnheritance\obj\Debug\net8.0\İnheritance.AssemblyInfoInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnheritance\obj\Debug\net8.0\İnheritance.AssemblyInfo.cs
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnheritance\obj\Debug\net8.0\İnheritance.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnheritance\obj\Debug\net8.0\İnheritance.sourcelink.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnheritance\obj\Debug\net8.0\İnheritance.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnheritance\obj\Debug\net8.0\refint\İnheritance.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnheritance\obj\Debug\net8.0\İnheritance.pdb
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnheritance\obj\Debug\net8.0\İnheritance.genruntimeconfig.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnheritance\obj\Debug\net8.0\ref\İnheritance.dll

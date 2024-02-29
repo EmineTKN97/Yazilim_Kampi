@@ -1,0 +1,15 @@
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnterfaceProject\bin\Debug\net8.0\İnterfaceProject.exe
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnterfaceProject\bin\Debug\net8.0\İnterfaceProject.deps.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnterfaceProject\bin\Debug\net8.0\İnterfaceProject.runtimeconfig.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnterfaceProject\bin\Debug\net8.0\İnterfaceProject.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnterfaceProject\bin\Debug\net8.0\İnterfaceProject.pdb
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnterfaceProject\obj\Debug\net8.0\İnterfaceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnterfaceProject\obj\Debug\net8.0\İnterfaceProject.AssemblyInfoInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnterfaceProject\obj\Debug\net8.0\İnterfaceProject.AssemblyInfo.cs
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnterfaceProject\obj\Debug\net8.0\İnterfaceProject.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnterfaceProject\obj\Debug\net8.0\İnterfaceProject.sourcelink.json
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnterfaceProject\obj\Debug\net8.0\İnterfaceProject.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnterfaceProject\obj\Debug\net8.0\refint\İnterfaceProject.dll
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnterfaceProject\obj\Debug\net8.0\İnterfaceProject.pdb
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnterfaceProject\obj\Debug\net8.0\İnterfaceProject.genruntimeconfig.cache
+C:\Users\emine\OneDrive\Masaüstü\yazilimkursu\MyProject(Udemy)\Kamp\C#COURSEPROJE\İnterfaceProject\obj\Debug\net8.0\ref\İnterfaceProject.dll
