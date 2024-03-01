@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{2028E007-199B-4E9F-AAED-328DEEABC58B}|Business\\Business.csproj|solutionrelative:business\\dtos\\requests\\createcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3BFC596-7E60-42E2-98AE-32DF50436CBD}|WEB_AP\u0130\\WEB_AP\u0130.csproj|c:\\users\\emine\\onedrive\\masa\u00FCst\u00FC\\yazilimkursu\\myproject(udemy)\\yazilim_kampi\\yazilim_kampi\\kursproje\\web_ap\u0130\\web_ap\u0130\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3BFC596-7E60-42E2-98AE-32DF50436CBD}|WEB_AP\u0130\\WEB_AP\u0130.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\KursProje\\WEB_AP\u0130\\web_ap\u0130\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3BFC596-7E60-42E2-98AE-32DF50436CBD}|WEB_AP\u0130\\WEB_AP\u0130.csproj|solutionrelative:web_ap\u0130\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -102,8 +102,7 @@
               "RelativeToolTip": "WEB_AP\u0130\\Controllers\\CategoriesController.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAA+wBIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T23:30:40.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T23:30:40.503Z"
             },
             {
               "$type": "Document",
