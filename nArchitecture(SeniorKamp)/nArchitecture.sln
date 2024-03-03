@@ -36,9 +36,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "src\demoProjects\templateProject\WebAPI\WebAPI.csproj", "{54568B1F-31E7-4BA3-A2ED-826E85050603}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "rentAcar", "rentAcar", "{71515D84-E7D2-4832-99A4-9DD7FDE26791}"
-	ProjectSection(SolutionItems) = preProject
-		src\demoProjects\templateProject\Application\ApplicationServiceRegistration.cs = src\demoProjects\templateProject\Application\ApplicationServiceRegistration.cs
-	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "src\demoProjects\rentACar\Application\Application.csproj", "{8AE53246-24F2-491F-B0FA-5A63F5539BC5}"
 EndProject
