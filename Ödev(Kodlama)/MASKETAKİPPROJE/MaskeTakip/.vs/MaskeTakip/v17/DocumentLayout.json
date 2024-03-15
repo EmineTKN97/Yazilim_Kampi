@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\",
+  "WorkspaceRootPath": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A43941CC-31E0-4BA0-850A-113C3422D526}|Workaround\\Workaround.csproj|c:\\users\\emine\\onedrive\\masa\u00FCst\u00FC\\yazilimkursu\\myproject(udemy)\\kamp\\masketak\u0130pproje\\masketakip\\workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A43941CC-31E0-4BA0-850A-113C3422D526}|Workaround\\Workaround.csproj|solutionrelative:workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|c:\\users\\emine\\onedrive\\masa\u00FCst\u00FC\\yazilimkursu\\myproject(udemy)\\kamp\\masketak\u0130pproje\\masketakip\\business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|solutionrelative:business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|c:\\users\\emine\\onedrive\\masa\u00FCst\u00FC\\yazilimkursu\\myproject(udemy)\\kamp\\masketak\u0130pproje\\masketakip\\business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|solutionrelative:business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|c:\\users\\emine\\onedrive\\masa\u00FCst\u00FC\\yazilimkursu\\myproject(udemy)\\kamp\\masketak\u0130pproje\\masketakip\\business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|solutionrelative:business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|c:\\users\\emine\\onedrive\\masa\u00FCst\u00FC\\yazilimkursu\\myproject(udemy)\\kamp\\masketak\u0130pproje\\masketakip\\business\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|solutionrelative:business\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|c:\\users\\emine\\onedrive\\masa\u00FCst\u00FC\\yazilimkursu\\myproject(udemy)\\kamp\\masketak\u0130pproje\\masketakip\\business\\concrete\\foreignmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|solutionrelative:business\\concrete\\foreignmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|c:\\users\\emine\\onedrive\\masa\u00FCst\u00FC\\yazilimkursu\\myproject(udemy)\\kamp\\masketak\u0130pproje\\masketakip\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|c:\\users\\emine\\onedrive\\masa\u00FCst\u00FC\\yazilimkursu\\myproject(udemy)\\kamp\\masketak\u0130pproje\\masketakip\\business\\connected services\\mernisservicereference\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\business\\connected services\\mernisservicereference\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|solutionrelative:business\\connected services\\mernisservicereference\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9DFC120-A6D1-409C-BE90-FCBEA83B589F}|Entities\\Entities.csproj|c:\\users\\emine\\onedrive\\masa\u00FCst\u00FC\\yazilimkursu\\myproject(udemy)\\kamp\\masketak\u0130pproje\\masketakip\\entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9DFC120-A6D1-409C-BE90-FCBEA83B589F}|Entities\\Entities.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9DFC120-A6D1-409C-BE90-FCBEA83B589F}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\business\\concrete\\foreignmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|solutionrelative:business\\concrete\\foreignmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|solutionrelative:business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\business\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|solutionrelative:business\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43941CC-31E0-4BA0-850A-113C3422D526}|Workaround\\Workaround.csproj|c:\\users\\emine\\onedrive\\masa\u00FCst\u00FC\\yazilimkursu\\myproject(udemy)\\yazilim_kampi\\yazilim_kampi\\\u00F6dev(kodlama)\\masketak\u0130pproje\\masketakip\\workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43941CC-31E0-4BA0-850A-113C3422D526}|Workaround\\Workaround.csproj|solutionrelative:workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|solutionrelative:business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61659F77-D30D-465B-9F35-9332CB0F94AE}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,43 +46,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IApplicantService.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Abstract\\IApplicantService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IApplicantService.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Abstract\\IApplicantService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IApplicantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T15:36:31.186Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IApplicantService.cs",
-              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Abstract\\IApplicantService.cs",
-              "RelativeDocumentMoniker": "Business\\Abstract\\IApplicantService.cs",
-              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Abstract\\IApplicantService.cs",
-              "RelativeToolTip": "Business\\Abstract\\IApplicantService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T15:36:31.186Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ISupplierService.cs",
-              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Abstract\\ISupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Abstract\\ISupplierService.cs",
               "RelativeDocumentMoniker": "Business\\Abstract\\ISupplierService.cs",
-              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Abstract\\ISupplierService.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Abstract\\ISupplierService.cs",
               "RelativeToolTip": "Business\\Abstract\\ISupplierService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T15:36:15.845Z"
+              "WhenOpened": "2024-02-17T15:36:15.845Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Business.csproj",
-              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Business.csproj",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Business.csproj",
               "RelativeDocumentMoniker": "Business\\Business.csproj",
-              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Business.csproj",
               "RelativeToolTip": "Business\\Business.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -90,35 +88,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Reference.cs",
-              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Connected Services\\MernisServiceReference\\Reference.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Connected Services\\MernisServiceReference\\Reference.cs",
               "RelativeDocumentMoniker": "Business\\Connected Services\\MernisServiceReference\\Reference.cs",
-              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Connected Services\\MernisServiceReference\\Reference.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Connected Services\\MernisServiceReference\\Reference.cs",
               "RelativeToolTip": "Business\\Connected Services\\MernisServiceReference\\Reference.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T15:17:57.5Z"
+              "WhenOpened": "2024-02-17T15:17:57.5Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ForeignManager.cs",
-              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Concrete\\ForeignManager.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Concrete\\ForeignManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\ForeignManager.cs",
-              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Concrete\\ForeignManager.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Concrete\\ForeignManager.cs",
               "RelativeToolTip": "Business\\Concrete\\ForeignManager.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T13:51:52.979Z"
+              "WhenOpened": "2024-02-17T13:51:52.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "PttManager.cs",
-              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Concrete\\PttManager.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Concrete\\PttManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\PttManager.cs",
-              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Concrete\\PttManager.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Concrete\\PttManager.cs",
               "RelativeToolTip": "Business\\Concrete\\PttManager.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,37 +126,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonManager.cs",
-              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Concrete\\PersonManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrete\\PersonManager.cs",
-              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Concrete\\PersonManager.cs",
-              "RelativeToolTip": "Business\\Concrete\\PersonManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T11:55:52.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Entities\\Concrete\\Person.cs",
-              "RelativeDocumentMoniker": "Entities\\Concrete\\Person.cs",
-              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Entities\\Concrete\\Person.cs",
-              "RelativeToolTip": "Entities\\Concrete\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T11:45:16.857Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PersonManager.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Concrete\\PersonManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PersonManager.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Business\\Concrete\\PersonManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PersonManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T11:55:52.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Entities\\Concrete\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Person.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Entities\\Concrete\\Person.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T11:45:16.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Workaround\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Workaround\\Program.cs",
               "RelativeDocumentMoniker": "Workaround\\Program.cs",
-              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAK\u0130PPROJE\\MaskeTakip\\Workaround\\Program.cs",
+              "ToolTip": "C:\\Users\\emine\\OneDrive\\Masa\u00FCst\u00FC\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\\u00D6dev(Kodlama)\\MASKETAK\u0130PPROJE\\MaskeTakip\\Workaround\\Program.cs",
               "RelativeToolTip": "Workaround\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-17T11:16:11.277Z",
               "EditorCaption": ""

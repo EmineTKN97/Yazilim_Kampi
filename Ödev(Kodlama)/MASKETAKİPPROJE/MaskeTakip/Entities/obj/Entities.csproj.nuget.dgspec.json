@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAKİPPROJE\\MaskeTakip\\Entities\\Entities.csproj": {}
+    "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Ödev(Kodlama)\\MASKETAKİPPROJE\\MaskeTakip\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAKİPPROJE\\MaskeTakip\\Entities\\Entities.csproj": {
+    "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Ödev(Kodlama)\\MASKETAKİPPROJE\\MaskeTakip\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAKİPPROJE\\MaskeTakip\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Ödev(Kodlama)\\MASKETAKİPPROJE\\MaskeTakip\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAKİPPROJE\\MaskeTakip\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Ödev(Kodlama)\\MASKETAKİPPROJE\\MaskeTakip\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\emine\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAKİPPROJE\\MaskeTakip\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Ödev(Kodlama)\\MASKETAKİPPROJE\\MaskeTakip\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y5CXyd1gV2GAxu+E/8wttGF/nPETLXFpbAoTcHBH7a9EY3GXaV+LplMXQBZNmDIy/d5p6wafP8bC20eZlpa87A==",
+  "dgSpecHash": "mBO0oykEujHNs/E271YuPhr6f3HQLGeBStKoMwNfDAYTQbF9wvDVpDst/JOxdXCH6V72PE56mjs1cxG5HyhtjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Kamp\\MASKETAKİPPROJE\\MaskeTakip\\Workaround\\Workaround.csproj",
+  "projectFilePath": "C:\\Users\\emine\\OneDrive\\Masaüstü\\yazilimkursu\\MyProject(Udemy)\\Yazilim_Kampi\\Yazilim_Kampi\\Ödev(Kodlama)\\MASKETAKİPPROJE\\MaskeTakip\\Workaround\\Workaround.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emine\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\emine\\.nuget\\packages\\microsoft.extensions.objectpool\\6.0.16\\microsoft.extensions.objectpool.6.0.16.nupkg.sha512",
